@@ -23,7 +23,7 @@ Developed a healthcare analytics dashboard using Power BI to explore patient dat
   - Disease Category
 
  📁 Project Files
-- 🔗 [Download Power BI File (.pbix)](Health Care Analytics Dashboard.pbix)
+- 🔗 [Download Power BI File (.pbix)]
 
 🧠 Insights Uncovered
 - High volume in emergency and general medicine departments
